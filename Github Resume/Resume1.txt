@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Resume ~ Midterm</title>
+    <style>
+	h1{
+		text-align: center; 
+	}
+	img {
+		float: right; 
+	}
+    </style>
+  </head>
+  <body>
+	<h1>Mara&#39;s Resume</h1>
+	<img src="../img/mara.jpg" alt="A picture of me, has brown, straight hair, glasses, with a dog fliter" width="300" >
+  
+<h2>Education & Credentials</h2>
+	<ul>
+		<li>
+			Beaumont High School -- Beaumont, CA<br>
+			BA Music, 2023
+		</li>
+		<li>
+			Loma Linda University-- , CA<br>
+			AS Programming, 2023 -- 2027
+		</li>
+		<li>
+			University of Redlands -- Redlands, CA<br>
+			MA Education, 2025 --
+		</li>
+	</ul>
+</body>
+</html>
+
