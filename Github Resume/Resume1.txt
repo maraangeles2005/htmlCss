@@ -20,15 +20,15 @@
 	<ul>
 		<li>
 			Beaumont High School -- Beaumont, CA<br>
-			BA Music, 2023
+			High School Diploma, 2023
 		</li>
 		<li>
 			Loma Linda University-- , CA<br>
-			AS Programming, 2023 -- 2027
+			DO Degree, 2023 -- 2027
 		</li>
 		<li>
 			University of Redlands -- Redlands, CA<br>
-			MA Education, 2025 --
+			MA degree, 2025 -- 2029
 		</li>
 	</ul>
 </body>
